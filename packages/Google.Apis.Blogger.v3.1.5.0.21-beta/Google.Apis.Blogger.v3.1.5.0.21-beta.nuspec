@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2011/10/nuspec.xsd">
+  <metadata>
+    <id>Google.Apis.Blogger.v3</id>
+    <version>1.5.0.21-beta</version>
+    <title>Google.Apis.Blogger.v3 Client Library</title>
+    <authors>Google Inc.</authors>
+    <owners>Google Inc.</owners>
+    <licenseUrl>http://www.apache.org/licenses/LICENSE-2.0</licenseUrl>
+    <projectUrl>https://code.google.com/p/google-api-dotnet-client/</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Google APIs Client Library for working with Blogger v3.</description>
+    <releaseNotes />
+    <copyright />
+    <language />
+    <tags>Google</tags>
+    <dependencies>
+      <dependency id="Google.Apis" version="1.5.0-beta" />
+    </dependencies>
+  </metadata>
+</package>
